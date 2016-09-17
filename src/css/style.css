@@ -1,0 +1,11 @@
+.empty {
+  fill: #222;
+}
+
+.red {
+  fill: red;
+}
+
+svg {
+  background-color: black;
+}
